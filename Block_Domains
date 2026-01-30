@@ -276,3 +276,16 @@ w1.luckyorange.com
 upload.luckyorange.net
 cs.luckyorange.net
 settings.luckyorange.net
+
+#SUNDRY
+notify.bugsnag.com
+sessions.bugsnag.com
+api.bugsnag.com
+app.bugsnag.com
+browser.sentry-cdn.com
+app.getsentry.com
+log.byteoversea.com
+auction.unityads.unity3d.com
+webview.unityads.unity3d.com
+config.unityads.unity3d.com
+adserver.unityads.unity3d.com
